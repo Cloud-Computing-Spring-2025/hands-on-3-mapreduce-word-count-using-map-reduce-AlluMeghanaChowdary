@@ -1,6 +1,15 @@
 # Allu Meghana Chowdary
 # 801391589
+
 # WordCount-Using-MapReduce-Hadoop
+
+
+Project Overview : We are making the word count in hadoop using Map reduce with the help of git and visual code studio.
+Approach and Implementation : The Mapper splits input text into words, emitting each word with a count of one. The Reducer sums the counts for each word, producing the total frequency across the dataset.
+Execution Steps : Steps are written in README file
+Challenges Faced & Solutions : The folders and steps in given README is not present on my computer so through errors i got to solve most of them.
+Sample Input and Output : let's take the input " I love banana.Banana is so sweet" the output has " I - 1
+love - 2 , banana - 2, is - 1, so - 1, sweet - 1 
 
 This repository is designed to test MapReduce jobs using a simple word count dataset.
 
